@@ -2,7 +2,7 @@
 
 🎓 Electronics and Communication Engineering student with a strong interest in **Embedded Systems**, **Machine Learning**, **VLSI**, and the intersection of Embedded + ML: **TinyML**.
 
-Currently focused on developing efficient, real-world ML solutions and exploring how AI/ML can be integrated into resource-constrained embedded platforms. I enjoy understanding the full workflow — from data preprocessing to model deployment.
+Currently focused on developing efficient, real-world ML solutions and exploring how AI/ML can be integrated into resource-constrained embedded platforms. I enjoy understanding the full workflow — from data preprocessing to model deployment. I also have interest and experience working on **Agentic AI** with **LangGraph**.
 
 ---
 
@@ -14,6 +14,8 @@ Currently focused on developing efficient, real-world ML solutions and exploring
 ![matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c)
 ![Embedded C](https://img.shields.io/badge/-EmbeddedC-4B8BBE?style=flat)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
@@ -30,30 +32,33 @@ Currently focused on developing efficient, real-world ML solutions and exploring
 
 ---
 
-## 📂 Recent Projects
+## 🧠 Projects & Work
 
-### 🏠 Housing Price Predictor (UCI Dataset)
-- 📌 Developed an end-to-end regression model using `RandomForestRegressor` (after comparing with other models).
-- 🚀 Involved EDA, feature engineering, preprocessing pipelines, and cross-validation.
-- 📉 Final RMSE on test data: ~2.98
-- 🧠 Tools: `pandas`, `scikit-learn`, `joblib`, `matplotlib`
+<p align="center">
+  <a href="https://github.com/SuDeEpKuMaR912/Boston_Housing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuDeEpKuMaR912&repo=Boston_Housing&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/SuDeEpKuMaR912/Medical_Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuDeEpKuMaR912&repo=Medical_Agent&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/SuDeEpKuMaR912/Interactive-India-Map">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuDeEpKuMaR912&repo=Interactive-India-Map&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/SuDeEpKuMaR912/HEX-Wars-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuDeEpKuMaR912&repo=HEX-Wars-game&theme=tokyonight" />
+  </a>
+</p>
 
-### 🎮 HexWars – Strategy Game using Qt Creator (C++)
-- ⚔️ Built a **hexagonal-grid based turn-based game** using `C++` and `Qt Creator`.
-- 🌐 Features object-oriented gameplay, movement rules, and dynamic game state logic.
-- 🎨 A creative project that blends logic, UI design, and C++ fundamentals.
+> 🔍 Check out more on [github.com/Sudeep's Repositories](https://github.com/SuDeEpKuMaR912?tab=repositories)
 
-### 🌍 Interactive India Map (Touch-Based Learning Tool)
-- 🧒 Designed for children to **explore states** using touch, audio, and LCD output.
-- 🔌 Powered by `ESP32`, `DFPlayer Mini`, `MPR121`, and LEDs.
-- 🧠 Includes quiz mode and fact mode — toggled via pushbutton.
 
 ---
 
 ## 💡 Areas of Interest
 
 - Machine Learning (Supervised & Unsupervised) (Also planning to indulge into DL after that :D)
-- TinyML and Edge AI  
+- TinyML and Edge AI
+- Agentic AI with `LangGraph` and `LangChain`
 - Embedded System Design (IoT + Realtime Systems)  
 - Data Preprocessing & Pipelines  
 - VLSI Workflow: `Xschem`, `NgSpice`, `Magic`
@@ -72,7 +77,7 @@ Currently focused on developing efficient, real-world ML solutions and exploring
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sudeep-kumar-a9767028a)
-- 🧪 [My GitHub Projects](https://github.com/SuDeEpKuMaR912)
+- 🧪 [My GitHub Projects](https://github.com/SuDeEpKuMaR912?tab=repositories)
 - 📧 Email: sudeep912.kumar@gmail.com
 
 ---
