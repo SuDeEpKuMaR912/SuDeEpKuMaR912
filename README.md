@@ -72,6 +72,8 @@ Currently focused on developing efficient, real-world ML solutions and exploring
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuDeEpKuMaR912&cache_seconds=1800&layout=compact&theme=tokyonight" height="180">
 </p>
 
+> 🧠 **Note**: Language usage is based on total lines/bytes, not number of projects.
+
 ---
 
 ## 📫 Let's Connect
