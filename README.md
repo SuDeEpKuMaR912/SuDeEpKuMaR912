@@ -15,7 +15,7 @@ Currently focused on developing efficient, real-world ML solutions and exploring
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-0055FF?style=flat&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c)
 ![Embedded C](https://img.shields.io/badge/-EmbeddedC-4B8BBE?style=flat)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
