@@ -6,7 +6,7 @@ Currently focused on developing efficient, real-world ML solutions and exploring
 
 ---
 
-## 🔥 Stats & Tech Stack
+## 🔥 Tech Stack and Tools I Have Experience In
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)
