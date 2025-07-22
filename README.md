@@ -23,11 +23,8 @@ Currently focused on developing efficient, real-world ML solutions and exploring
 ![Proteus](https://img.shields.io/badge/-Proteus-blueviolet?style=flat)
 ![EasyEDA](https://img.shields.io/badge/-EasyEDA-2196F3?style=flat)
 ![Fritzing](https://img.shields.io/badge/-Fritzing-E94E1B?style=flat)
-![Xschem](https://img.shields.io/badge/-Xschem-grey?style=flat&logo=gnubash&logoColor=white)
-![NgSpice](https://img.shields.io/badge/-NgSpice-darkgreen?style=flat&logo=codeforces&logoColor=white)
-![Magic](https://img.shields.io/badge/-Magic-VLSI-orange?style=flat)
+[![Vivado](https://img.shields.io/badge/EDA-Xilinx%20Vivado-blue?logo=xilinx)](https://www.xilinx.com/products/design-tools/vivado.html)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
 
 ---
@@ -44,8 +41,8 @@ Currently focused on developing efficient, real-world ML solutions and exploring
     <a href="https://github.com/SuDeEpKuMaR912/Interactive-India-Map">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuDeEpKuMaR912&repo=Interactive-India-Map&theme=tokyonight" />
   </a>
-  <a href="https://github.com/SuDeEpKuMaR912/HEX-Wars-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuDeEpKuMaR912&repo=HEX-Wars-game&theme=tokyonight" />
+  <a href="https://github.com/SuDeEpKuMaR912/Sportsperson_classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuDeEpKuMaR912&repo=Sportsperson_classification&theme=tokyonight" />
   </a>
 </p>
 
@@ -61,7 +58,7 @@ Currently focused on developing efficient, real-world ML solutions and exploring
 - Agentic AI with `LangGraph` and `LangChain`
 - Embedded System Design (IoT + Realtime Systems)  
 - Data Preprocessing & Pipelines  
-- VLSI Workflow: `Xschem`, `NgSpice`, `Magic`
+- VLSI Workflow: `Xilinx Vivado`
 
 ---
 
