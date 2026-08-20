@@ -203,21 +203,6 @@ Real-time clock implementation on the STM32H753ZI, exploring RTC peripherals and
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuDeEpKuMaR912&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuDeEpKuMaR912&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuDeEpKuMaR912&theme=tokyonight&hide_border=true" />
-</p>
-
-> 🧠 **Note:** Language statistics are based on repository code and don't necessarily represent my overall skill set.
-
----
-
 ## 📫 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/sudeep-kumar-a9767028a)
