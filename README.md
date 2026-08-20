@@ -6,7 +6,7 @@ I enjoy understanding how things actually work under the hood: taking an idea fr
 
 My current interests sit at the intersection of:
 
-**Embedded Systems • TinyML / Edge AI • FPGA & RTL • Digital VLSI • Machine Learning • Agentic AI**
+**Embedded Systems • TinyML / Edge AI • FPGA & RTL • Digital VLSI • Machine Learning**
 
 ---
 
@@ -72,152 +72,165 @@ My current interests sit at the intersection of:
 * Synopsys Custom Compiler
 * SAED 90nm technology
 
-### 🧠 Agentic AI
+---
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+## 🚀 Featured Projects
 
-* Agentic AI
-* LangChain
-* LangGraph
-* Tool-using agents
-* Multi-step AI workflows
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧠 FPGA CNN Accelerator</h3>
+
+<p>
+Hardware-accelerated CNN inference for image classification using FPGA and Verilog RTL.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Verilog-000000?style=flat-square">
+<img src="https://img.shields.io/badge/FPGA-FF1010?style=flat-square">
+<img src="https://img.shields.io/badge/Q8.8-Fixed--Point-6E40C9?style=flat-square">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+</p>
+
+<p>
+<strong>Focus:</strong> CNN hardware acceleration, fixed-point arithmetic, RTL design & hardware parallelism.
+</p>
+
+<a href="https://github.com/SuDeEpKuMaR912/CNN-Inference-Accelerator-for-Image-Classification">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⌨️ STM32 USB HID Keyboard</h3>
+
+<p>
+Custom 4×5 USB HID keyboard built around the STM32F407 with custom key mappings and multimedia controls.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/STM32F407-03234B?style=flat-square">
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square">
+<img src="https://img.shields.io/badge/USB%20HID-0088CC?style=flat-square">
+</p>
+
+<p>
+<strong>Focus:</strong> USB device development, HID reports, matrix scanning & embedded firmware.
+</p>
+
+<a href="https://github.com/SuDeEpKuMaR912/Keyboard-HID">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌐 STM32H753 TCP Server</h3>
+
+<p>
+Embedded Ethernet application implementing a TCP server with runtime network configuration and command handling.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/STM32H753-03234B?style=flat-square">
+<img src="https://img.shields.io/badge/LwIP-00599C?style=flat-square">
+<img src="https://img.shields.io/badge/FreeRTOS-333333?style=flat-square">
+<img src="https://img.shields.io/badge/Ethernet-0078D4?style=flat-square">
+</p>
+
+<p>
+<strong>Focus:</strong> TCP/IP, DHCP, static networking, embedded networking & real-time systems.
+</p>
+
+<a href="https://github.com/SuDeEpKuMaR912/STM32H753-TCP-Server">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🕐 Real-Time Clock — STM32H753ZI</h3>
+
+<p>
+Real-time clock implementation on the STM32H753ZI, exploring RTC peripherals and embedded timekeeping.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/STM32H753-03234B?style=flat-square">
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square">
+<img src="https://img.shields.io/badge/RTC-6A5ACD?style=flat-square">
+<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square">
+</p>
+
+<p>
+<strong>Focus:</strong> RTC peripheral configuration, embedded firmware & hardware-level timekeeping.
+</p>
+
+<a href="https://github.com/SuDeEpKuMaR912/Real-Time-Clock-in-H753ZI">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+## 🌱 Other Work
 
-### 🧠 FPGA CNN Accelerator
-
-**Verilog RTL • FPGA • Fixed-Point Arithmetic**
-
-Designed and implemented a CNN inference accelerator on FPGA, exploring how neural-network operations can be mapped from software into dedicated hardware.
-
-**Highlights:**
-
-* Convolution and pooling hardware
-* Q8.8 fixed-point arithmetic
-* BRAM-based data storage
-* Hardware-oriented neural-network computation
-* FPGA implementation using Vivado
-
----
-
-### 🖐️ Palm Print Matching on FPGA
-
-**SSIM • Verilog • FPGA • IEEE-754 Floating Point IP**
-
-Hardware implementation of the **Structural Similarity Index Measure (SSIM)** for palm-print matching.
-
-The project explores accelerating image-similarity computation using FPGA hardware rather than relying entirely on software execution.
-
-**Currently working with:**
-
-* Floating-point IP cores
-* Multiplication / accumulation
-* Square-root operations
-* AXI-Stream interfaces
-* `TVALID`, `TREADY` and `TLAST`
-* FPGA-based image processing
-
----
-
-### 🌱 Smart Irrigation & TinyML
-
-**ESP32 • Sensors • TinyML • IoT**
-
-An intelligent irrigation system combining environmental sensing with machine learning to make irrigation decisions.
-
-**Hardware includes:**
-
-* ESP32
-* Soil moisture sensor
-* DHT22
-* Rain sensor
-* LDR
-* pH sensor
-* Ultrasonic sensor
-* Relay-controlled irrigation
-
-The goal is to move beyond simple threshold-based automation toward **data-driven edge intelligence**.
-
----
-
-### 🌐 STM32 Ethernet & TCP Server
-
-**STM32H753ZI • FreeRTOS • LwIP • Ethernet**
-
-Embedded Ethernet application built around STM32 and LwIP.
-
-Implemented functionality including:
-
-* DHCP / Static IP configuration
-* TCP server
-* Telnet-style command interface
-* Runtime network configuration
-* Authentication state machine
-* GPIO control through network commands
-
-This project involved working directly with the networking stack, Ethernet peripherals, DMA, memory regions and embedded debugging.
-
----
-
-### ⌨️ STM32 USB HID Keyboard
-
-**STM32F407 • USB HID • Embedded C**
-
-Custom USB HID keyboard using a **4×5 key matrix**.
-
-Features include custom HID mappings and multimedia controls such as microphone mute and audio controls.
-
----
-
-### 🔬 Analog IC Design — OTA to GDSII
-
-**Synopsys Custom Compiler • SAED 90nm**
-
-Designed and simulated CMOS analog circuits and explored the physical-design flow from schematic to layout.
-
-Workflow:
-
-`Schematic → Simulation → Layout → DRC → LVS → PEX`
-
----
-
-# 🧪 Other Projects
-
-* 🏠 **Boston Housing Prediction** — Machine Learning & data analysis
-* 🗺️ **Interactive India Map** — Data visualization
-* 🏅 **Sportsperson Classification** — Computer Vision / ML
-* 🤖 **Agentic AI / Medical Agent** — LangGraph-based AI workflow
+* 🌱 **Smart Irrigation & TinyML** — ESP32-based intelligent irrigation system combining environmental sensing and ML-based decision making.
+* 🖐️ **Palm Print Matching on FPGA** — FPGA implementation of SSIM-based image similarity using floating-point IP cores.
+* 🔬 **Analog IC Design** — CMOS OTA design and layout exploration using Synopsys Custom Compiler and SAED 90nm.
+* 🏠 **Boston Housing Prediction** — Machine Learning and data analysis.
+* 🗺️ **Interactive India Map** — Interactive data visualization.
+* 🏅 **Sportsperson Classification** — Computer Vision / Machine Learning.
+* 🤖 **Medical Agent** — Agentic AI workflow using LangGraph.
 
 👉 [Explore all my repositories](https://github.com/SuDeEpKuMaR912?tab=repositories)
 
 ---
 
-# 🎯 Areas I'm Currently Exploring
+## 🎯 Areas I'm Currently Exploring
 
 ```text
-Machine Learning
-      │
-      ▼
-TinyML / Edge AI
-      │
-      ▼
-Embedded Systems ──────► Real-world Deployment
-      │
-      ▼
-FPGA / RTL ────────────► Hardware Acceleration
-      │
-      ▼
-Digital VLSI ──────────► RTL → GDSII
+                    MACHINE LEARNING
+                           │
+                           ▼
+                    TINYML / EDGE AI
+                           │
+                           ▼
+                  EMBEDDED SYSTEMS
+                           │
+                ┌──────────┴──────────┐
+                ▼                     ▼
+             FPGA / RTL          REAL-WORLD
+                │                DEPLOYMENT
+                ▼
+        HARDWARE ACCELERATION
+                │
+                ▼
+          DIGITAL VLSI
+                │
+                ▼
+             RTL → GDSII
 ```
 
 I'm particularly interested in **hardware-aware AI** — understanding not only whether a model works, but also how its computation can be optimized for constrained hardware.
 
 ---
 
-# 🛠️ Tools
+## 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
@@ -229,7 +242,7 @@ I'm particularly interested in **hardware-aware AI** — understanding not only 
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuDeEpKuMaR912&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -240,7 +253,7 @@ I'm particularly interested in **hardware-aware AI** — understanding not only 
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/sudeep-kumar-a9767028a)
 
