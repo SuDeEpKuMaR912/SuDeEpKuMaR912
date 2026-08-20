@@ -1,130 +1,61 @@
 # 👋 Hi, I'm Sudeep
 
-🎓 **Electronics & Communication Engineering student** interested in building intelligent systems across the stack — from **Machine Learning models and embedded devices to FPGA/RTL and VLSI**.
+### `ECE` • `Embedded Systems` • `ML` • `FPGA/RTL` • `VLSI`
 
-I enjoy understanding how things actually work under the hood: taking an idea from **data → model → algorithm → hardware → deployment**.
+> **Building intelligent systems where software meets silicon.**
 
-My current interests sit at the intersection of:
+I'm an **Electronics & Communication Engineering student** interested in designing systems across the hardware-software boundary.
 
-**Embedded Systems • TinyML / Edge AI • FPGA & RTL • Digital VLSI • Machine Learning**
+I like understanding the complete workflow — from **data and algorithms → embedded deployment → hardware acceleration → silicon**.
 
----
-
-## ⚡ What I Work With
-
-### 🤖 Machine Learning & AI
-
-![Python](https://img.shields.io/badge/Python-333?style=flat\&logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-
-* Machine Learning
-* Deep Learning
-* TinyML & Edge AI
-* Data preprocessing & pipelines
-* Model optimization & deployment
-* Computer Vision
-
-### ⚙️ Embedded Systems
-
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat\&logo=stmicroelectronics\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat\&logo=espressif\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat\&logo=arduino\&logoColor=white)
-
-* STM32
-* ESP32
-* Embedded C
-* USB / HID
-* Ethernet & TCP/IP
-* FreeRTOS
-* LwIP
-* IoT systems
-* Real-time embedded systems
-
-### 🔢 FPGA / RTL / Digital Design
-
-![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat)
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-FF1010?style=flat\&logo=amd\&logoColor=white)
-![Vitis](https://img.shields.io/badge/Vitis-000000?style=flat\&logo=amd\&logoColor=white)
-
-* Verilog RTL
-* FPGA-based acceleration
-* CNN accelerators
-* Fixed-point arithmetic
-* AXI / FPGA IP integration
-* Zynq SoC
-* BRAM / DDR-based architectures
-* Hardware-software co-design
-
-### 🔬 VLSI / IC Design
-
-* Digital VLSI
-* RTL-to-GDSII flow
-* Analog IC Design
-* CMOS circuit design
-* Custom Layout
-* DRC / LVS
-* Parasitic extraction
-* Synopsys Custom Compiler
-* SAED 90nm technology
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TinyML%20%2F%20Edge%20AI-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FPGA%20%2F%20RTL-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digital%20VLSI-2E8B57?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ What I Work With
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🧠 FPGA CNN Accelerator</h3>
+### 🤖 Machine Learning
 
 <p>
-Hardware-accelerated CNN inference for image classification using FPGA and Verilog RTL.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Verilog-000000?style=flat-square">
-<img src="https://img.shields.io/badge/FPGA-FF1010?style=flat-square">
-<img src="https://img.shields.io/badge/Q8.8-Fixed--Point-6E40C9?style=flat-square">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
 </p>
 
-<p>
-<strong>Focus:</strong> CNN hardware acceleration, fixed-point arithmetic, RTL design & hardware parallelism.
-</p>
-
-<a href="https://github.com/SuDeEpKuMaR912/CNN-Inference-Accelerator-for-Image-Classification">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
+`Machine Learning` `Deep Learning`
+`TinyML` `Edge AI`
+`Computer Vision`
+`Data Preprocessing` `Model Deployment`
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>⌨️ STM32 USB HID Keyboard</h3>
+### ⚙️ Embedded Systems
 
 <p>
-Custom 4×5 USB HID keyboard built around the STM32F407 with custom key mappings and multimedia controls.
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white">
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/STM32F407-03234B?style=flat-square">
-<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square">
-<img src="https://img.shields.io/badge/USB%20HID-0088CC?style=flat-square">
-</p>
-
-<p>
-<strong>Focus:</strong> USB device development, HID reports, matrix scanning & embedded firmware.
-</p>
-
-<a href="https://github.com/SuDeEpKuMaR912/Keyboard-HID">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
+`Embedded C` `STM32` `ESP32`
+`USB / HID` `Ethernet` `TCP/IP`
+`FreeRTOS` `LwIP`
+`IoT` `Real-Time Systems`
 
 </td>
 
@@ -134,51 +65,34 @@ Custom 4×5 USB HID keyboard built around the STM32F407 with custom key mappings
 
 <td width="50%" valign="top">
 
-<h3>🌐 STM32H753 TCP Server</h3>
+### 🔢 FPGA & RTL
 
 <p>
-Embedded Ethernet application implementing a TCP server with runtime network configuration and command handling.
+<img src="https://img.shields.io/badge/Verilog-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Vivado-FF1010?style=flat-square&logo=amd&logoColor=white">
+<img src="https://img.shields.io/badge/Vitis-000000?style=flat-square&logo=amd&logoColor=white">
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/STM32H753-03234B?style=flat-square">
-<img src="https://img.shields.io/badge/LwIP-00599C?style=flat-square">
-<img src="https://img.shields.io/badge/FreeRTOS-333333?style=flat-square">
-<img src="https://img.shields.io/badge/Ethernet-0078D4?style=flat-square">
-</p>
-
-<p>
-<strong>Focus:</strong> TCP/IP, DHCP, static networking, embedded networking & real-time systems.
-</p>
-
-<a href="https://github.com/SuDeEpKuMaR912/STM32H753-TCP-Server">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
+`Verilog RTL` `FPGA Acceleration`
+`CNN Accelerators`
+`Fixed-Point Arithmetic`
+`AXI / IP Integration`
+`Zynq SoC` `BRAM / DDR`
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🕐 Real-Time Clock — STM32H753ZI</h3>
+### 🔬 VLSI & IC Design
 
-<p>
-Real-time clock implementation on the STM32H753ZI, exploring RTC peripherals and embedded timekeeping.
-</p>
+`Digital VLSI` `RTL → GDSII`
+`Analog IC Design`
+`CMOS Circuit Design`
+`Custom Layout`
+`DRC` `LVS` `PEX`
 
-<p>
-<img src="https://img.shields.io/badge/STM32H753-03234B?style=flat-square">
-<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square">
-<img src="https://img.shields.io/badge/RTC-6A5ACD?style=flat-square">
-<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square">
-</p>
-
-<p>
-<strong>Focus:</strong> RTC peripheral configuration, embedded firmware & hardware-level timekeeping.
-</p>
-
-<a href="https://github.com/SuDeEpKuMaR912/Real-Time-Clock-in-H753ZI">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
+**Tools:**
+`Synopsys Custom Compiler` • `SAED 90nm`
 
 </td>
 
@@ -187,30 +101,155 @@ Real-time clock implementation on the STM32H753ZI, exploring RTC peripherals and
 
 ---
 
-👉 [Explore all my repositories](https://github.com/SuDeEpKuMaR912?tab=repositories)
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🧠</h2>
+
+### FPGA CNN Inference Accelerator
+
+Hardware acceleration of CNN inference for image classification using **Verilog RTL and FPGA**.
+
+**Built around:**
+
+`Verilog` · `FPGA` · `Q8.8` · `CNN`
+
+> Exploring how neural-network computation can move from software into dedicated hardware.
+
+<br>
+
+<a href="https://github.com/SuDeEpKuMaR912/CNN-Inference-Accelerator-for-Image-Classification">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>⌨️</h2>
+
+### STM32 USB HID Keyboard
+
+A custom **4×5 USB HID keyboard** built around the STM32F407.
+
+**Built around:**
+
+`STM32F407` · `Embedded C` · `USB HID`
+
+> Custom HID reports, matrix scanning, key mappings and multimedia controls.
+
+<br>
+
+<a href="https://github.com/SuDeEpKuMaR912/Keyboard-HID">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🌐</h2>
+
+### STM32H753 TCP Server
+
+Embedded Ethernet application implementing a **TCP server with runtime network configuration**.
+
+**Built around:**
+
+`STM32H753` · `LwIP` · `FreeRTOS` · `Ethernet`
+
+> DHCP/static networking, TCP communication, command handling and embedded networking.
+
+<br>
+
+<a href="https://github.com/SuDeEpKuMaR912/STM32H753-TCP-Server">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🕐</h2>
+
+### Real-Time Clock — STM32H753ZI
+
+Embedded implementation exploring the **RTC peripheral and timekeeping** capabilities of the STM32H753ZI.
+
+**Built around:**
+
+`STM32H753ZI` · `Embedded C` · `RTC`
+
+> Hardware-level timekeeping and peripheral configuration.
+
+<br>
+
+<a href="https://github.com/SuDeEpKuMaR912/Real-Time-Clock-in-H753ZI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/SuDeEpKuMaR912?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-24292F?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tools
+# 🛠️ Tools & Environment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-FF1010?style=flat\&logo=amd\&logoColor=white)
-![Vitis](https://img.shields.io/badge/Vitis-000000?style=flat\&logo=amd\&logoColor=white)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat)
-![Synopsys](https://img.shields.io/badge/Synopsys-000000?style=flat)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Vivado-FF1010?style=for-the-badge&logo=amd&logoColor=white">
+<img src="https://img.shields.io/badge/Vitis-000000?style=for-the-badge&logo=amd&logoColor=white">
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Synopsys-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+
+</p>
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/sudeep-kumar-a9767028a)
+<p align="center">
 
-🧪 [GitHub Repositories](https://github.com/SuDeEpKuMaR912?tab=repositories)
+<a href="https://www.linkedin.com/in/sudeep-kumar-a9767028a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-📧 **[sudeep912.kumar@gmail.com](mailto:sudeep912.kumar@gmail.com)**
+<a href="https://github.com/SuDeEpKuMaR912">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:sudeep912.kumar@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
 
 ---
 
-> *Building intelligent systems where software meets silicon.*
+<p align="center">
+  <i>Building intelligent systems where software meets silicon.</i>
+</p>
