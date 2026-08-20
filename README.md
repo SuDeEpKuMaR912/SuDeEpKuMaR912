@@ -187,46 +187,7 @@ Real-time clock implementation on the STM32H753ZI, exploring RTC peripherals and
 
 ---
 
-## 🌱 Other Work
-
-* 🌱 **Smart Irrigation & TinyML** — ESP32-based intelligent irrigation system combining environmental sensing and ML-based decision making.
-* 🖐️ **Palm Print Matching on FPGA** — FPGA implementation of SSIM-based image similarity using floating-point IP cores.
-* 🔬 **Analog IC Design** — CMOS OTA design and layout exploration using Synopsys Custom Compiler and SAED 90nm.
-* 🏠 **Boston Housing Prediction** — Machine Learning and data analysis.
-* 🗺️ **Interactive India Map** — Interactive data visualization.
-* 🏅 **Sportsperson Classification** — Computer Vision / Machine Learning.
-* 🤖 **Medical Agent** — Agentic AI workflow using LangGraph.
-
 👉 [Explore all my repositories](https://github.com/SuDeEpKuMaR912?tab=repositories)
-
----
-
-## 🎯 Areas I'm Currently Exploring
-
-```text
-                    MACHINE LEARNING
-                           │
-                           ▼
-                    TINYML / EDGE AI
-                           │
-                           ▼
-                  EMBEDDED SYSTEMS
-                           │
-                ┌──────────┴──────────┐
-                ▼                     ▼
-             FPGA / RTL          REAL-WORLD
-                │                DEPLOYMENT
-                ▼
-        HARDWARE ACCELERATION
-                │
-                ▼
-          DIGITAL VLSI
-                │
-                ▼
-             RTL → GDSII
-```
-
-I'm particularly interested in **hardware-aware AI** — understanding not only whether a model works, but also how its computation can be optimized for constrained hardware.
 
 ---
 
