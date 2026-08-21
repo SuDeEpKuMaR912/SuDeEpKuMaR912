@@ -300,7 +300,7 @@ RTC peripheral configuration, timekeeping and embedded firmware.
 
 ## 📫 Let's Connect
 
-<a href="www.linkedin.com/in/sudeep-kumar-429166429">
+<a href="https://www.linkedin.com/in/sudeep-kumar-429166429">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
