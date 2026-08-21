@@ -285,8 +285,8 @@ RTC peripheral configuration, timekeeping and embedded firmware.
 
 ### IC Design
 
-<img src="https://img.shields.io/badge/Synopsys-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SAED%2090nm-444444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Synopsys%20Custom%20Compiler-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cadence%20Virtuoso-444444?style=for-the-badge" />
 
 ### Design
 
